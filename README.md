@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] [Currency Switcher]
 - [x] [Rate Converter]
 - [x] [Theme Switcher]
+- [x] [Toast Notification]
 - [ ] [Language Switcher]
 
 ## Tech Stack
@@ -13,6 +14,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] [ESLint] - Linting
 - [x] [ShadCN_UI] - Unstyled UI Component Library
 - [x] [Zustand] - Global State Manager using hooks
+- [x] [React_Toastify] - Toast Notification
 
 ## Getting Started
 
