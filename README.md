@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] [Theme Switcher]
 - [x] [Toast Notification]
 - [ ] [Language Switcher]
+- [ ] [State Persistence]
 
 ## Tech Stack
 - [x] [Next.js] - React Framework
