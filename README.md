@@ -15,6 +15,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] [ESLint] - Linting
 - [x] [ShadCN_UI] - Unstyled UI Component Library
 - [x] [Zustand] - Global State Manager using hooks
+- [x] [Zustand Immer] - Persist Zustand State
 - [x] [React_Toastify] - Toast Notification
 
 ## Getting Started
