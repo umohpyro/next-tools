@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] [Theme Switcher]
 - [x] [Toast Notification]
 - [ ] [Language Switcher]
-- [ ] [State Persistence]
+- [ ] [Persist Middleware]
 
 ## Tech Stack
 - [x] [Next.js] - React Framework
@@ -15,7 +15,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] [ESLint] - Linting
 - [x] [ShadCN_UI] - Unstyled UI Component Library
 - [x] [Zustand] - Global State Manager using hooks
-- [ ] [Zustand Immer] - Persist Zustand State
+- [ ] [Zustand Immer] - Access Deeply Nested State
 - [x] [React_Toastify] - Toast Notification
 
 ## Getting Started
